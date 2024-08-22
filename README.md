@@ -22,6 +22,7 @@ Get the starter code
 Run this command to clone the code with git:
 
 git clone https://github.com/0uun0/assign1.git
+
 Enter the folder you just created:
 
 cd assign1
