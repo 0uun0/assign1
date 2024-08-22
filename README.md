@@ -8,7 +8,7 @@ With Reflected XSS, you want to find a way to encode the attack input into a URL
 With Stored XSS, you want to find a way to get your attack input stored more permanently, e.g. in the server's database, so that when your target visits a page constructed using this data at some point in the future, your attack code will execute in their browser.
 
 The assignment takes the form of an interactive workshop that you'll run in your browser. This is what it looks like:
-![assignment 1 screenshot]([URL](https://web.stanford.edu/class/cs253/journey-to-the-dark-side.png))
+![assignment 1 screenshot](https://web.stanford.edu/class/cs253/journey-to-the-dark-side.png)
 
 
 Prepare
